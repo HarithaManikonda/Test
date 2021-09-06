@@ -6,7 +6,8 @@ public class SampleTest {
       SampleTest test = new SampleTest();
 
 		System.out.println("");
-
+		
+		System.out.println("another one");
 
 	}
 
